@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: froger_mcs dev blog
+name: Agus Cahyono Dev Blog
 
 # Short bio or description (displayed in the header)
-description: Coding with love {❤️}
+description: Code For More Experience {❤️}
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars3.githubusercontent.com/u/407504
@@ -18,26 +18,26 @@ avatar: https://avatars3.githubusercontent.com/u/407504
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble: 
-  email: 
-  facebook: frogermcs
-  flickr: frogermcs
-  github: frogermcs
-  instagram: froger_mcs
-  linkedin: frogermcs
+  email: cahyo.mamen@gmail.com
+  facebook: cahyocode
+  flickr: 
+  github: balitax
+  instagram: cahyonow
+  linkedin: 
   pinterest: 
-  rss: rss # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: froger_mcs
-  stackoverflow: users/2021293/froger-mcs # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  rss: rss 
+  twitter: gauscahyono
+  stackoverflow: 
 
 # Your disqus shortname, entering this will enable commenting on posts
-disqus: frogermcs
+disqus: balitax
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-1989909-17
+google_analytics: 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://frogermcs.github.io
+url: http://balitax.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages 
 # (http://yourusername.github.io/repository-name)
